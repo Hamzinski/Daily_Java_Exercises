@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8264b6dd-3018-46dc-8b96-2b35d45352dd" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/src/com/hamz/exercises/CalculateGPA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hamz/exercises/CalculateKDV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hamz/exercises/CircleCalculation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hamz/exercises/GettingDataFromConsole.java" afterDir="false" />
+    <list default="true" id="8264b6dd-3018-46dc-8b96-2b35d45352dd" name="Changes" comment="First Day - 4 Exercise">
+      <change afterPath="$PROJECT_DIR$/src/com/hamz/exercises/Palindrome.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -52,7 +53,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CircleCalculation">
+  <component name="RunManager" selected="Application.Palindrome">
     <configuration name="CalculateGPA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hamz.exercises.CalculateGPA" />
       <module name="Daily_Java" />
@@ -92,8 +93,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GettingDataFromConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.hamz.exercises.GettingDataFromConsole" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Daily_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hamz.exercises.Palindrome" />
       <module name="Daily_Java" />
       <extension name="coverage">
         <pattern>
@@ -105,20 +113,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Daily_Java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.CircleCalculation" />
         <item itemvalue="Application.CalculateKDV" />
         <item itemvalue="Application.CalculateGPA" />
-        <item itemvalue="Application.GettingDataFromConsole" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -162,11 +163,31 @@
       <option name="project" value="LOCAL" />
       <updated>1713456354368</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="First Day - 4 Exercise">
+      <option name="closed" value="true" />
+      <created>1713462134319</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713462134319</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="First Day - 4 Exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Day - 4 Exercise" />
   </component>
 </project>
