@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8264b6dd-3018-46dc-8b96-2b35d45352dd" name="Changes" comment="First Day - 4 Exercise">
-      <change afterPath="$PROJECT_DIR$/src/com/hamz/exercises/Palindrome.java" afterDir="false" />
+    <list default="true" id="8264b6dd-3018-46dc-8b96-2b35d45352dd" name="Changes" comment="Second Day - Exercise 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,11 +43,13 @@
     "Application.CircleCalculation.executor": "Run",
     "Application.GettingDataFromConsole.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.NumberToWords.executor": "Run",
+    "Application.Palindrome.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/GithubRepo/Daily_Java",
+    "last_opened_file_path": "D:/GithubRepo/JavaGithubForks/FSWEB-S13D1-Maven",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
@@ -171,7 +171,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713462134319</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Second Day - Exercise 1">
+      <option name="closed" value="true" />
+      <created>1716836665073</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1716836665073</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Second Day - Exercise 2">
+      <option name="closed" value="true" />
+      <created>1716836833011</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1716836833011</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +204,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="First Day - 4 Exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Day - 4 Exercise" />
+    <MESSAGE value="Second Day - Exercise 1" />
+    <MESSAGE value="Second Day - Exercise 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Day - Exercise 2" />
   </component>
 </project>
