@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8264b6dd-3018-46dc-8b96-2b35d45352dd" name="Changes" comment="Seventh Day - Exercise 1" />
+    <list default="true" id="8264b6dd-3018-46dc-8b96-2b35d45352dd" name="Changes" comment="Eight Day - Exercise 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,23 +47,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CalculateGPA.executor": "Run",
-    "Application.CalculateKDV.executor": "Run",
-    "Application.CircleCalculation.executor": "Run",
-    "Application.GettingDataFromConsole.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.NumberToWords.executor": "Run",
-    "Application.Palindrome.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/GithubRepo/Daily_Java",
-    "settings.editor.selected.configurable": "configurable.group.appearance"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CalculateGPA.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculateKDV.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CircleCalculation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GettingDataFromConsole.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberToWords.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/GithubRepo/Daily_Java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.NumberToWords">
     <configuration name="CalculateKDV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.hamz.exercises.CalculateKDV" />
@@ -239,7 +239,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721487657184</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Eight Day - Exercise 1">
+      <option name="closed" value="true" />
+      <created>1721680657475</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1721680657475</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -264,6 +272,7 @@
     <MESSAGE value="Fifth Day - Exercise 2" />
     <MESSAGE value="Sixth Day - Exercise 1" />
     <MESSAGE value="Seventh Day - Exercise 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Seventh Day - Exercise 1" />
+    <MESSAGE value="Eight Day - Exercise 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Eight Day - Exercise 1" />
   </component>
 </project>
